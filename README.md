@@ -12,4 +12,10 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 ## Tensorflow
 1. https://www.kaggle.com/aayushkubba/tensorflow-2-tutorial-get-started-in-deep-learning
 2. https://www.kaggle.com/aayushkubba/cifar-10-analysis-with-a-neural-network
-3. 
+
+
+## Computer Vision
+Basics:
+
+Advance:
+https://www.kaggle.com/aayushkubba/how-to-choose-cnn-architecture-mnist/edit
