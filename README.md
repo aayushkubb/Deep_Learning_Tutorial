@@ -15,8 +15,11 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 
 
 ## Computer Vision
-Basics:
+
+### MNIST Dataset
+
+1. Basics:
 https://www.kaggle.com/aayushkubba/get-start-image-classification
 
-Advance:
-https://www.kaggle.com/aayushkubba/how-to-choose-cnn-architecture-mnist/edit
+2. Advance using ensemble of CNNs: https://www.kaggle.com/aayushkubba/25-million-images-0-99757-mnist
+3. dvance Experiments: https://www.kaggle.com/aayushkubba/how-to-choose-cnn-architecture-mnist/edit
