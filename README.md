@@ -16,6 +16,7 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 
 ## Computer Vision
 Basics:
+https://www.kaggle.com/aayushkubba/get-start-image-classification
 
 Advance:
 https://www.kaggle.com/aayushkubba/how-to-choose-cnn-architecture-mnist/edit
