@@ -7,6 +7,7 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 ## Keras
 1. Keras for beginers: https://www.kaggle.com/aayushkubba/keras-basics-for-beginners
 2. Churn Prediction Basics: https://www.kaggle.com/aayushkubba/churn-prediction-basic-ann-keras-tutorial
+3. House Price Prediction - https://www.kaggle.com/aayushkubba/regression-using-deep-learning-tensorflow-keras
 
 
 ## Tensorflow
