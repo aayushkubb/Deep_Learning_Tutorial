@@ -15,6 +15,13 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 2. https://www.kaggle.com/aayushkubba/cifar-10-analysis-with-a-neural-network
 
 
+## RNNs
+
+### Kaggle
+1. https://www.kaggle.com/aayushkubba/simple-lstm-for-text-classification
+2. https://www.kaggle.com/aayushkubba/intro-to-recurrent-neural-networks-lstm-gru
+3. https://www.kaggle.com/aayushkubba/comprehensive-guide-to-rnn-with-keras
+
 ## Computer Vision
 
 ### MNIST Dataset
