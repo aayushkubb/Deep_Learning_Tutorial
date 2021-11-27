@@ -22,6 +22,12 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 2. https://www.kaggle.com/aayushkubba/intro-to-recurrent-neural-networks-lstm-gru
 3. https://www.kaggle.com/aayushkubba/comprehensive-guide-to-rnn-with-keras
 
+# Notebooks
+https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/LSTM_Spam_Classification.ipynb
+https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/Next_Word_Prediction.ipynb
+https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/Retrieving_Information.ipynb
+
+
 ## Computer Vision
 
 ### MNIST Dataset
