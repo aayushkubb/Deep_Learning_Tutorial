@@ -44,4 +44,8 @@ https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/Retrieving_Info
 2. Advance:
 3. Finetuned Models(Transfer Learning)
 - https://www.kaggle.com/aayushkubba/dogs-vs-cats-classification-vgg16-fine-tuning
-- 
+
+
+# NLP
+Articles:
+https://jalammar.github.io/illustrated-bert/
