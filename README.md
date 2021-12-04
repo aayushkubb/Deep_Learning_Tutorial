@@ -15,6 +15,19 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 2. https://www.kaggle.com/aayushkubba/cifar-10-analysis-with-a-neural-network
 
 
+## RNNs
+
+### Kaggle
+1. https://www.kaggle.com/aayushkubba/simple-lstm-for-text-classification
+2. https://www.kaggle.com/aayushkubba/intro-to-recurrent-neural-networks-lstm-gru
+3. https://www.kaggle.com/aayushkubba/comprehensive-guide-to-rnn-with-keras
+
+# Notebooks
+https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/LSTM_Spam_Classification.ipynb
+https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/Next_Word_Prediction.ipynb
+https://github.com/aayushkubb/Deep_Learning_Tutorial/blob/master/Retrieving_Information.ipynb
+
+
 ## Computer Vision
 
 ### MNIST Dataset
@@ -31,4 +44,8 @@ Open Sourcing all my deep learning tutorials and cheet sheets.
 2. Advance:
 3. Finetuned Models(Transfer Learning)
 - https://www.kaggle.com/aayushkubba/dogs-vs-cats-classification-vgg16-fine-tuning
-- 
+
+
+# NLP
+Articles:
+https://jalammar.github.io/illustrated-bert/
